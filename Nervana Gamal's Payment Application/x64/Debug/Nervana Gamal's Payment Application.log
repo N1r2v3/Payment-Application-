@@ -1,0 +1,8 @@
+﻿  app.c
+F:\Courses\FWD\Nervana Gamal's Payment Application\Nervana Gamal's Payment Application\app.c(74,12): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uint8_t *'
+F:\Courses\FWD\Nervana Gamal's Payment Application\Nervana Gamal's Payment Application\app.c(74,12): message : consider using '%hhd' in the format string
+  server.c
+F:\Courses\FWD\Nervana Gamal's Payment Application\Nervana Gamal's Payment Application\server.c(39,18): warning C4101: 'status': unreferenced local variable
+  Generating Code...
+F:\Courses\FWD\Nervana Gamal's Payment Application\Nervana Gamal's Payment Application\server.c(164): warning C4715: 'saveTransaction': not all control paths return a value
+  Nervana Gamal's Payment Application.vcxproj -> F:\Courses\FWD\Nervana Gamal's Payment Application\x64\Debug\Nervana Gamal's Payment Application.exe
